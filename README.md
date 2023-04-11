@@ -2,7 +2,7 @@
 
 #### By Molly Donegan, Sarah Andyshak, Erin Timlin, David Jandron, Kai Clausen, Asia Kaplanyan
 
-#### An MVC website for sharing local gardens, calling on the HiddenGarden API.
+#### An MVC website for sharing local gardens, calling on the [HiddenGarden API](https://github.com/SarahAndyshak/HiddenGardenApi.Solution).
 
 ## 🍐 Technologies Used 🍐 
 
